@@ -1,2 +1,3 @@
-# eastafrica_chickenfarm
-Role-Based Access Control system for poultry farm using Django &amp; React
+# Kalemie Agro
+
+This project manages poultry, cassava, and fruit operations.
